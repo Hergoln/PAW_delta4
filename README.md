@@ -2,10 +2,10 @@
 
 ## Project: ___Trello - bieda version___
 
-### Project members:
+### Project members
 
 Name | GithubId
-- | -
+-|-
 Kamil Chrustowski | [uposledzony](https://github.com/uposledzony)
 Alicja Krautsztrung | [Rorrim2](https://github.com/Rorrim2)
 Juliusz Malka | [Hergoln](https://github.com/Hergoln)
