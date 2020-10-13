@@ -1,0 +1,29 @@
+# Programowanie Aplikacji Webowych
+
+## Project: ___Trello - bieda version___
+
+### Project members:
+
+Name | GithubId
+- | -
+Kamil Chrustowski | [uposledzony](https://github.com/uposledzony)
+Alicja Krautsztrung | [Rorrim2](https://github.com/Rorrim2)
+Juliusz Malka | [Hergoln](https://github.com/Hergoln)
+
+
+### Requirements and Issues/Bug management
+
+All issues, bugs and new requirements are going to be posted, documented and resolved on projects [Trello page](https://trello.com/b/5xIcVvvC).
+
+
+### Technologies stack
+
+Purpose | Technology
+-|-
+Server side (back end) | __Django__
+Main back end coding language | __Python__
+Python IDE | __Pycharm__/__Spyder__
+Client side (front end) | __Vue.js__
+Main front end coding language | __JavaScript__
+Client side packaging tool | __npm__
+JavaScript IDE | __WebStorm__
