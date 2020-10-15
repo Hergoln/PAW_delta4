@@ -14,7 +14,7 @@ Juliusz Malka | [Hergoln](https://github.com/Hergoln)
 ### Requirements and Issues/Bug management
 
 All issues, bugs and new requirements are going to be posted, documented and resolved on projects [Trello page](https://trello.com/b/5xIcVvvC).
-
+[Requiarements base ](https://trello.com/b/tA7sML97/przyk%C5%82adowa-tablica-iteracji)
 
 ### Technologies stack
 
