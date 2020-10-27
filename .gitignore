@@ -29,3 +29,8 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+.vs
+*.pyproj
+*trello_env
+*.user
+*bin
