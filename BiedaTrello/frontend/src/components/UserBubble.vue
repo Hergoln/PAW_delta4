@@ -1,5 +1,7 @@
 <template>
-
+  <div title="{{user.name}} {{user.last_name}}, id: {{user.id}}">
+    <span>{{user.name.substring(0,1)}}{{user.last_name.substring(0,1)}}</span>
+  </div>
 </template>
 
 <script lang="ts">
@@ -13,7 +15,7 @@ export type User = {
 
 @Component
 export default class UserBubble extends Vue{
-  @Prop() private user!: User
+  @Prop() user!: User
 }
 
 
