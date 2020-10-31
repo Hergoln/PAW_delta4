@@ -34,3 +34,4 @@ yarn-error.log*
 *trello_env
 *.user
 *bin
+**db.sqlite3
