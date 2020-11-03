@@ -1,1 +1,0 @@
-backend of ___Trello - bieda version___
