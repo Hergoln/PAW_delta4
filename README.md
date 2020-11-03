@@ -2,6 +2,15 @@
 
 ## Project: ___Trello - bieda version___
 
+#### Backend
+[link](https://github.com/Rorrim2/bieda_trello_backend)
+#### Frontend
+[link](https://github.com/Rorrim2/bieda_trello)
+### Deployed to Heroku
+https://bieda-trello.herokuapp.com/
+
+
+
 ### Project members
 
 Name | GithubId
